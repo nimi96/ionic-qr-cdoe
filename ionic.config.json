@@ -1,0 +1,8 @@
+{
+  "name": "sm_app",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  },
+  "app_id": "de889d8c"
+}
